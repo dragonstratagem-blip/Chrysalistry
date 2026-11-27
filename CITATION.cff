@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "Chrysalistry: The Codified Framework of Autopoietic Reality and the Eternal Afterlife Competition"
+message: "If you reference, analyze, or build upon this treatise, please cite it using the metadata below."
+type: dataset
+authors:
+  - family-names: "Theibert"
+    given-names: "John Adams"
+    name-suffix: "Jr."
+    alias: "Drake Stratagem / TheDragonStratagem"
+repository-code: "https://github.com/dragonstratagem-blip/Chrysalistry"
+url: "https://github.com/dragonstratagem-blip/Chrysalistry"
+abstract: "A formal treatise codifying Chrysalistry, an open-source meta-religion and game-theoretic cosmological framework uniting Autopoietic Reality Proper, Temporal Vector Field dynamics, Tri-State Reality Mapping, the Superfractalon Field Hypothesis Cosmology (SFHC), and the Mass-Metric Kardashev Scale."
+keywords:
+  - "Chrysalistry"
+  - "Autopoietic Reality"
+  - "Superfractalon Field Hypothesis Cosmology"
+  - "Temporal Vector Field"
+  - "Injective Reality"
+  - "Prior Art"
+license: "CC-BY-4.0"
+version: "8.7"
+date-released: "2026-11-27"
